@@ -1,0 +1,6 @@
+{
+  "name": "Blackwood Hollow",
+  "description": "A first-person low-poly Victorian horror mansion exploration game with hidden wall passages, atmospheric Web Audio soundscapes, and interconnected inventory puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
